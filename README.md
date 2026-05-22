@@ -3,6 +3,8 @@
 A modern **Kanban Board** application built with **React** and **Vite**, featuring drag-and-drop task management using **dnd-kit**.  
 This project allows users to organize tasks visually across multiple columns, edit boards, and reorder tasks seamlessly.
 
+Live demo: [https://kanban-board-ten-vert.vercel.app/](https://kanban-board-ten-vert.vercel.app/)
+
 ---
 
 ## 🚀 Features
